@@ -1,1 +1,1 @@
-# Electrical-Fault-Detection-svm
+# Electrical Fault Detection and Classification using SVM
